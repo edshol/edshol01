@@ -15,7 +15,7 @@
     },
     {
       "id": "generate-variations",
-      "title": "Generate Variations",
+      "title": "GenAI Generate Variations",
       "environments": [
           "preview","liv","edit"
       ],
@@ -25,7 +25,7 @@
     },
     {
         "id": "generate-firefly",
-        "title": "Firefly GenAI",
+        "title": "GenAI Firefly",
         "environments": [
             "preview","liv","edit"
         ],
