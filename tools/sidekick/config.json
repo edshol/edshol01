@@ -25,7 +25,7 @@
     },
     {
         "id": "generate-firefly",
-        "title": "Firefly",
+        "title": "Firefly GenAI",
         "environments": [
             "preview","liv","edit"
         ],
