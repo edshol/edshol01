@@ -1,3 +1,3 @@
 export default function decorate(block) {
-  block.innerHTML = "hello Quote";
+  block.innerHTML = "<em>${block.innerHTML}</em>";
 }
