@@ -210,6 +210,6 @@ main .section.highlight {
 }
 
 /* added by tekaneko */
-.center {
+main .center {
   text-align: center;
 }
